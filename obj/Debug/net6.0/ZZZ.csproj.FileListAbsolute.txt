@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\ZZZ\bin\Debug\net6.0\ZZZ.exe
+C:\Users\Администратор\source\repos\ZZZ\bin\Debug\net6.0\ZZZ.deps.json
+C:\Users\Администратор\source\repos\ZZZ\bin\Debug\net6.0\ZZZ.runtimeconfig.json
+C:\Users\Администратор\source\repos\ZZZ\bin\Debug\net6.0\ZZZ.dll
+C:\Users\Администратор\source\repos\ZZZ\bin\Debug\net6.0\ZZZ.pdb
+C:\Users\Администратор\source\repos\ZZZ\obj\Debug\net6.0\ZZZ.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\ZZZ\obj\Debug\net6.0\ZZZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\ZZZ\obj\Debug\net6.0\ZZZ.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\ZZZ\obj\Debug\net6.0\ZZZ.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\ZZZ\obj\Debug\net6.0\ZZZ.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ZZZ\obj\Debug\net6.0\ZZZ.dll
+C:\Users\Администратор\source\repos\ZZZ\obj\Debug\net6.0\refint\ZZZ.dll
+C:\Users\Администратор\source\repos\ZZZ\obj\Debug\net6.0\ZZZ.pdb
+C:\Users\Администратор\source\repos\ZZZ\obj\Debug\net6.0\ZZZ.genruntimeconfig.cache
+C:\Users\Администратор\source\repos\ZZZ\obj\Debug\net6.0\ref\ZZZ.dll
